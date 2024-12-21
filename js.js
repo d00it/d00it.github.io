@@ -3,5 +3,5 @@ const button = document.querySelector('button');
 
 /* Тут на кнопку навешиваем обрабочик, который ждёт клика и тогда запустит логику */
 button.addEventListener('click', function() {
-	alert('Ты не ты, когда голоден xD')
+	alert('Хорошо задокументированный баг, автоматически становится фичей!')
 })
